@@ -1,0 +1,11 @@
+D:\Adrak sigma\deskt1\deskt1\bin\Debug\deskt1.exe.config
+D:\Adrak sigma\deskt1\deskt1\bin\Debug\deskt1.exe
+D:\Adrak sigma\deskt1\deskt1\bin\Debug\deskt1.pdb
+D:\Adrak sigma\deskt1\deskt1\obj\Debug\deskt1.csproj.AssemblyReference.cache
+D:\Adrak sigma\deskt1\deskt1\obj\Debug\deskt1.csproj.SuggestedBindingRedirects.cache
+D:\Adrak sigma\deskt1\deskt1\obj\Debug\deskt1.Properties.Resources.resources
+D:\Adrak sigma\deskt1\deskt1\obj\Debug\deskt1.csproj.GenerateResource.cache
+D:\Adrak sigma\deskt1\deskt1\obj\Debug\deskt1.csproj.CoreCompileInputs.cache
+D:\Adrak sigma\deskt1\deskt1\obj\Debug\deskt1.exe
+D:\Adrak sigma\deskt1\deskt1\obj\Debug\deskt1.pdb
+D:\Adrak sigma\deskt1\deskt1\obj\Debug\deskt1.Form1c.resources
